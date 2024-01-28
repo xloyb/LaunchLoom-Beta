@@ -1,6 +1,6 @@
-# Project Title
+# LaunchLoom Beta
 
-I am developing an open-source, multipurpose React, Tailwind, and Astro application with the Daisyui component library to streamline startup development. The project will cover the following aspects:
+I am developing an open-source, multipurpose React, Tailwind, and Astro application with the Daisyui component library to streamline startup development. LaunchLoom Beta will cover the following aspects:
 
 ## Essential Features:
 
