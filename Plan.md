@@ -58,5 +58,3 @@ I am developing an open-source, multipurpose React, Tailwind, and Astro applicat
 - **Error Handling:** Implement robust mechanisms to manage and communicate errors gracefully.
 
 ---
-
-**Note:** This revised plan ensures the inclusion of the Daisyui component library for enriched UI components in the application.
